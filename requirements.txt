@@ -1,0 +1,2 @@
+lark-parser==0.8.5
+docopt==0.6.2
